@@ -1,0 +1,6 @@
+artifact_location: file:///home/ec2-user/environment/ml_model_inference_mlflow/mlruns/0
+creation_time: 1710381188735
+experiment_id: '0'
+last_update_time: 1710381188735
+lifecycle_stage: active
+name: Default
